@@ -1,5 +1,6 @@
 #Importar Archivos Abriendo Explorador
 import os
+import numpy
 import pandas as pd
 from tkinter.filedialog import askopenfilename
 
